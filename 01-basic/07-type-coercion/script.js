@@ -1,3 +1,5 @@
+// Type Coercion refers to the process of automatic or implicit conversion of values from one data type to another.
+
 let x;
 
 // Operator "+" menggabungkan string, sedangkan operator "*" melakukan perkalian matematika.
