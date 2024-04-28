@@ -37,6 +37,7 @@ x = s.indexOf("O");
 // Search a string for a specified value
 x = s.substring(6, 7);
 x = s.substring(7);
+console.log(x);
 
 // Extracts a part of a string and return a new string
 x = s.slice(5, 7);
@@ -55,5 +56,3 @@ x = s.valueOf();
 
 // Returns an array of string
 x = s.split("");
-
-console.log(x);
