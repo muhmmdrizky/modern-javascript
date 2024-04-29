@@ -29,4 +29,5 @@ d = new Date(1666962049745);
 
 // Convert from milliseconds to seconds
 d = Math.floor(Date.now() / 1000);
+
 console.log(d);
