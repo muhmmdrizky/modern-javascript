@@ -32,6 +32,7 @@ returns selected elements in an array, as a new array.
 Slice takes in the index of the first element and the index of the last element to be included in the new array.
 */
 x = arr.slice(1, 3);
+console.log(x);
 
 /*
 like slice() except it takes the index of the first element and the number of elements after that as a second argument. 
